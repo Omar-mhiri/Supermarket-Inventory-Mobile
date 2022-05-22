@@ -2,8 +2,8 @@
 
 <br />
 <div align="center">
-<h3 align="center">Java Back-End<br/>
-Building a restfull api for managing supermarket inventory</h3>
+<h3 align="center">Android application<br/>
+Building an android application for managing supermarket inventory</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -83,28 +83,36 @@ First all of all you need to install some prerequesties by following these steps
 ## Usage
 
 <a href="#">
-<img src="images/1.jpg" alt="Logo-1">
+<img src="images/1.jpg" width="300"
+  height="600" alt="Logo-1">
 </a>
 <a href="#">
-<img src="images/2.jpg" alt="Logo-2">
+<img src="images/2.jpg" width="300"
+  height="600" alt="Logo-2">
 </a>
 <a href="#">
-<img src="images/3.jpg"alt="Logo-3">
+<img src="images/3.jpg" width="300"
+  height="600"alt="Logo-3">
 </a>
 <a href="#">
-<img src="images/4.jpg" alt="Logo-4">
+<img src="images/4.jpg" width="300"
+  height="600" alt="Logo-4">
 </a>
 <a href="#">
-<img src="images/5.jpg" alt="Logo-5">
+<img src="images/5.jpg"  width="300"
+  height="600" alt="Logo-5">
 </a>
 <a href="#">
-<img src="images/6.jpg" alt="Logo-6">
+<img src="images/6.jpg"width="300"
+  height="600"  alt="Logo-6">
 </a>
 <a href="#">
-<img src="images/7.jpg" alt="Logo-7">
+<img src="images/7.jpg" width="300"
+  height="600" alt="Logo-7">
 </a>
 <a href="#">
-<img src="images/8.jpg" alt="Logo-8">
+<img src="images/8.jpg" width="300"
+  height="600" alt="Logo-8">
 </a>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
